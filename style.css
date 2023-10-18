@@ -21,7 +21,7 @@ body {
   padding-top: 200px;
   margin-left: auto;
   margin-right: auto;
-  max-width: 600px;
+  max-width: 1000px;
 }
 
 .content a {
@@ -30,8 +30,9 @@ body {
   text-align: center;
 }
 
+
 .content .links{
-  margin-left: 100px;
+  margin-left: 299px;
 }
 
 .content h3{
@@ -41,6 +42,8 @@ body {
 .content h4{
   text-align: center;
 }
+
+
 .pp {
   display: block;
   margin-left: auto;
